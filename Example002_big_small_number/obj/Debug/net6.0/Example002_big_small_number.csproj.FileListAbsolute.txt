@@ -1,0 +1,15 @@
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/GB_C_Sharp_HomeWork1/Example002_big_small_number/bin/Debug/net6.0/Example002_big_small_number
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/GB_C_Sharp_HomeWork1/Example002_big_small_number/bin/Debug/net6.0/Example002_big_small_number.deps.json
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/GB_C_Sharp_HomeWork1/Example002_big_small_number/bin/Debug/net6.0/Example002_big_small_number.runtimeconfig.json
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/GB_C_Sharp_HomeWork1/Example002_big_small_number/bin/Debug/net6.0/Example002_big_small_number.dll
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/GB_C_Sharp_HomeWork1/Example002_big_small_number/bin/Debug/net6.0/Example002_big_small_number.pdb
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/GB_C_Sharp_HomeWork1/Example002_big_small_number/obj/Debug/net6.0/Example002_big_small_number.csproj.AssemblyReference.cache
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/GB_C_Sharp_HomeWork1/Example002_big_small_number/obj/Debug/net6.0/Example002_big_small_number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/GB_C_Sharp_HomeWork1/Example002_big_small_number/obj/Debug/net6.0/Example002_big_small_number.AssemblyInfoInputs.cache
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/GB_C_Sharp_HomeWork1/Example002_big_small_number/obj/Debug/net6.0/Example002_big_small_number.AssemblyInfo.cs
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/GB_C_Sharp_HomeWork1/Example002_big_small_number/obj/Debug/net6.0/Example002_big_small_number.csproj.CoreCompileInputs.cache
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/GB_C_Sharp_HomeWork1/Example002_big_small_number/obj/Debug/net6.0/Example002_big_small_number.dll
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/GB_C_Sharp_HomeWork1/Example002_big_small_number/obj/Debug/net6.0/refint/Example002_big_small_number.dll
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/GB_C_Sharp_HomeWork1/Example002_big_small_number/obj/Debug/net6.0/Example002_big_small_number.pdb
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/GB_C_Sharp_HomeWork1/Example002_big_small_number/obj/Debug/net6.0/Example002_big_small_number.genruntimeconfig.cache
+/Users/aleksandrgultcev/Documents/Обучение в GB/Курс введение в програмирование/GB_C_Sharp_HomeWork1/Example002_big_small_number/obj/Debug/net6.0/ref/Example002_big_small_number.dll
