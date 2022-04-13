@@ -40,4 +40,4 @@
     *Пример:*  
     5 -> 2, 4
     8 -> 2, 4, 6, 8
-    Folder in repo:
+    Folder in repo: Example008_even_numbers
