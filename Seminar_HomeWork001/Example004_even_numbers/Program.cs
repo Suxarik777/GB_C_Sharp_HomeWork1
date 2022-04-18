@@ -1,4 +1,4 @@
-﻿void FillArrayMethod(int[] collection) //этой функцией заполняем массив числами от одного до N подряд
+﻿void FillArrayMethod(int[] collection) //(Функция раскрывается) этой функцией заполняем массив числами от одного до N подряд
 {
     int length = collection.Length;
     int index = 0;
@@ -12,7 +12,7 @@
     }
 }
 
-void PrintEvenArrayMethod(int[] data) // этим методом печатаем в консоль четные числа
+void PrintEvenArrayMethod(int[] data) // (Функция раскрывается) этим методом печатаем в консоль четные числа
 {
     int length = data.Length;
     int index = 0;
