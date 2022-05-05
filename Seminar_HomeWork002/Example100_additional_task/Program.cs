@@ -9,7 +9,7 @@
 
 
 int hiddenNumber = new Random().Next(0, 9); //загаданное число
-int count = 2;                              // счётчик попыток
+int count = 2;                              // счётчик попыток +1
 
 Console.WriteLine($"Компьютер загадал число от 0 до 9, попробуй отгадать у тебя {count + 1} попытки");
 int userNumber = Convert.ToInt32(Console.ReadLine());
